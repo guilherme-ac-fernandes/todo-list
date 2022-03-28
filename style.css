@@ -1,10 +1,16 @@
-*{
+* {
   margin: 0;
   padding: 0;
   background-color: #feedea;
 }
 
-header{
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
   text-align: center;
   vertical-align: middle;
   border-radius: 30px 30px 0px 0px;
@@ -14,7 +20,7 @@ header{
   background-color: #fac6aa;
 }
 
-#section{
+#section {
   text-align: center;
   vertical-align: middle;
   border-radius: 0px 0px 30px 30px;
@@ -24,21 +30,21 @@ header{
   background-color: #fac6aa;
 }
 
-#funcionamento{
+#funcionamento {
   background-color: #fac6aa;
 }
 
-h1{
+h1 {
   margin-bottom: 10px;
   border-radius: 30px 30px 0px 0px;
   background-color: #fac6aa;
 }
 
-#texto-tarefa{
+#texto-tarefa {
   margin: 30px 10px 30px 10px;
 }
 
-ol{
+ol {
   width: 500px;
   margin-left: 200px;
   text-align: left;
