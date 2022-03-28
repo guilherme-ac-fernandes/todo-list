@@ -55,32 +55,32 @@ ol li {
   background-color: #fac6aa;
 }
 
-.completed{
+.completed {
   text-decoration: line-through;
 }
 
-.selecionado{
+.selecionado {
   background-color: rgb(128, 128, 128);
 }
 
-button{
+button {
   width: 125px;
   height: 20px;
 }
 
-.salvar{
+.salvar {
   background-color: #bedfc4;
 }
 
-.limpar{
+.limpar {
   background-color: #f0888a;
 }
 
-#remover-selecionado{
+#remover-selecionado {
   width: 50px;
 }
 
-.mover{
+.mover {
   background-color: #fffab2;
   width: 50px;
 }
