@@ -7,5 +7,5 @@
 
 #### Demostração
 <p align="center">
-  <img src="https://github.com/guilherme-ac-fernandes/trybe-projetos/blob/main/todo-list/todo-list.gif" alt="To Do List Gif - Demostração"/>
+  <img src="https://github.com/guilherme-ac-fernandes/todo-list/blob/main/todo-list.gif" alt="To Do List Gif - Demostração"/>
 </p>
